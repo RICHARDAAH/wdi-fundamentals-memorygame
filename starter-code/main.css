@@ -29,13 +29,16 @@ p {
     border: 1px solid black;
     border-radius: 10px;
     background-color: yellow;
-    float: center;
+    float: left;
     margin: 8%;
 }
 
 footer {
 	text-align: center;
 	background-color: #808080;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .name {
@@ -73,6 +76,6 @@ a:hover {
     border: 1px solid black;
     border-radius: 10px;
     background-color: yellow;
-    float: center;
+    float: left;
     margin: 8%;
 }
